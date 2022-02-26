@@ -1,7 +1,6 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
-version=v2.0
+id=Hide_3-button_NavBar
+name=Hide 3-button NavBar
+version=v1.0
 versionCode=10
-author=Zackptg5
-description=Magisk Module Template Extended
-updateJson=https://raw.githubusercontent.com/Zackptg5/MMT-Extended/master/update.json
+author=xDonatello
+description=Hide the 3-button navigation bar, to use third-party navigation gesture apps.
